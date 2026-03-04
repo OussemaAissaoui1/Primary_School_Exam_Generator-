@@ -1,0 +1,13 @@
+langgraph
+langchain
+langchain-groq
+langchain-core
+openai
+pdfplumber
+sympy
+reportlab
+arabic_reshaper
+python-bidi
+streamlit
+python-dotenv
+pandas
