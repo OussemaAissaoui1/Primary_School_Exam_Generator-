@@ -135,13 +135,12 @@ This ensures generated exams match the authentic style, difficulty, and format o
 ## Development
 
 ### Recent Updates
-- ✅ Integrated real extracted exam data (replaced synthetic data)
+- ✅ Integrated real extracted exam data 
 - ✅ Fixed PDF export HTML parsing errors
 - ✅ Switched to Groq LLama 3.3 70B for better quality
 - ✅ Added variation in question counts per exercise
 - ✅ Improved text formatting and ordering
-- ✅ Enhanced Arabic place names (no English placeholders)
-
+- ✅ Enhanced Arabic place names 
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
